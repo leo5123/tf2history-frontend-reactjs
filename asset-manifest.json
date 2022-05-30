@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tf2history/static/css/main.089d9ec9.css",
+    "main.css": "/tf2history/static/css/main.c8ee8a5c.css",
     "main.js": "/tf2history/static/js/main.35e8b475.js",
     "static/js/787.7b63f85e.chunk.js": "/tf2history/static/js/787.7b63f85e.chunk.js",
     "static/media/background-image-1.png": "/tf2history/static/media/background-image-1.f1f732629b9a6ba068c5.png",
@@ -8,12 +8,12 @@
     "static/media/bf-image.png": "/tf2history/static/media/bf-image.4523d6fbfdd043f5fbb8.png",
     "static/media/vanilla-logo.png": "/tf2history/static/media/vanilla-logo.f80c9deb9dd0ad5f65bb.png",
     "index.html": "/tf2history/index.html",
-    "main.089d9ec9.css.map": "/tf2history/static/css/main.089d9ec9.css.map",
+    "main.c8ee8a5c.css.map": "/tf2history/static/css/main.c8ee8a5c.css.map",
     "main.35e8b475.js.map": "/tf2history/static/js/main.35e8b475.js.map",
     "787.7b63f85e.chunk.js.map": "/tf2history/static/js/787.7b63f85e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.089d9ec9.css",
+    "static/css/main.c8ee8a5c.css",
     "static/js/main.35e8b475.js"
   ]
 }
